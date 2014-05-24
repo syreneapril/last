@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:rim="http://www.blackberry.com/ns/widgets"
+        version="1.0.0" id="It'sMyChips" viewmodes="fullscreen">
+
+<author href=" " rim:copyright="">Y.O.L.O. Team</author>
+
+<description>A game for the brain.</description>
+
+
+<name>It's My Chips!</name>
+
+<feature id="blackberry.app">
+<param name="orientation" value="landscape" /> </feature>
+
+<content src="index.html" />
+
+<icon src="icon_128.png"/>
+
+<feature id="blackberry.ui.dialog"/>
+	<rim:permissions>
+	</rim:permissions> </feature>
+
+</widget> 
